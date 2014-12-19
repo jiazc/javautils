@@ -1,0 +1,8 @@
+2014-10-11 09:42:27,300 ERROR [      main] (utils.DateUtilTest:  22) - date:20141011
+2014-10-11 09:50:39,107 DEBUG [      main] (utils.DateUtilTest:  22) - date:20141011
+2014-10-11 10:19:18,831  INFO [      main] (utils.DateUtilTest:  22) - date:20141011
+2014-10-11 10:20:34,838 DEBUG [      main] (utils.DateUtilTest:  22) - date:20141011
+2014-10-11 10:20:48,690 ERROR [      main] (utils.DateUtilTest:  22) - date:20141011
+2014-10-11 11:42:32,893 ERROR [      main] (              full:  22) - date:20141011
+2014-10-11 11:42:46,157 ERROR [      main] (               ful:  22) - date:20141011
+2014-10-11 11:43:07,516 ERROR [      main] (utils.DateUtilTest:  22) - date:20141011

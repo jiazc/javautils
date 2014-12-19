@@ -1,0 +1,5 @@
+2014-11-03 15:04:38,875  INFO [      main] (ils.StringUtilTest:  22) - 返回的随机数为：65068725471509375589329428678022867388598118893355
+2014-11-03 15:09:47,927 DEBUG [      main] (  utils.StringUtil: 140) - strNum9Bits:999999999
+2014-11-03 15:12:10,281 DEBUG [      main] (  utils.StringUtil: 142) - strNum9Bits:999999999
+2014-11-03 15:12:10,287 DEBUG [      main] (  utils.StringUtil:  64) - numstr:999999999
+2014-11-03 15:15:10,695  INFO [      main] (ils.StringUtilTest:  25) - ret:999
